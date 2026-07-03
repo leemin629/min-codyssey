@@ -100,6 +100,3 @@
 
 단계적 추론 -- 생각의 과정 : 과정 설명
 
-**GitHub 토큰**
-
-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
