@@ -1,4 +1,4 @@
-## **Gemini 3.1 Pro**
+# **Gemini 3.1 Pro**
 
 장점
 
